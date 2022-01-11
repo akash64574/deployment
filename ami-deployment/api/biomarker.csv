@@ -1,0 +1,98 @@
+loinc_code,alias,biomarker,target_unit
+1751-7,Albumin.val,albumin_mass_volume_in_serum_or_plasma,g/dL
+3094-0,BUN,urea_nitrogen_mass_volume_in_serum_or_plasma,mg/dL
+26444-0,Basophils Absolute.val,basophils_volume_in_blood,THOU/mcL
+704-7,Basophils Absolute.val,basophils_volume_in_blood,THOU/mcL
+705-4,Basophils Absolute.val,basophils_volume_in_blood,THOU/mcL
+30180-4,Basophils.val,basophils_100_leukocytes_in_blood,\%
+706-2,Basophils.val,basophils_100_leukocytes_in_blood,\%
+707-0,Basophils.val,basophils_100_leukocytes_in_blood,\%
+42637-9,BnP,natriuretic_peptide_b_mass_volume_in_blood,pg/mL
+17861-6,Calcium.val,calcium_mass_volume_in_serum_or_plasma,mg/dL
+2075-0,Chloride,chloride_moles_volume_in_serum_or_plasma,mmol/L
+26449-9,Eos,eosinophils_volume_in_blood,THOU/mcL
+711-2,Eos,eosinophils_volume_in_blood,THOU/mcL
+712-0,Eos,eosinophils_volume_in_blood,THOU/mcL
+26450-7,Eos_fraction,eosinophils_100_leukocytes_in_blood,\%
+713-8,Eos_fraction,eosinophils_100_leukocytes_in_blood,\%
+714-6,Eos_fraction,eosinophils_100_leukocytes_in_blood,\%
+2498-4,Fe,iron_mass_volume_in_serum_or_plasma,ug/dL
+20509-6,Hb.val,hemoglobin_mass_volume_in_blood,g/dL
+718-7,Hb.val,hemoglobin_mass_volume_in_blood,g/dL
+20570-8,Hct.val,hematocrit_volume_fraction_of_blood,\%
+4544-3,Hct.val,hematocrit_volume_fraction_of_blood,\%
+26474-7,Lymph,lymphocytes_volume_in_blood,THOU/mcL
+732-8,Lymph,lymphocytes_volume_in_blood,THOU/mcL
+26477-0,Lymph_variant,variant_lymphocytes_volume_in_blood,THOU/mcL
+28539-5,MCH.val,mch_entitic_mass_,pg
+785-6,MCH.val,mch_entitic_mass_,pg
+28540-3,MCHC.val,mchc_mass_volume_,g/dL
+786-4,MCHC.val,mchc_mass_volume_,g/dL
+30428-7,MCV.val,mcv_entitic_volume_,fL
+787-2,MCV.val,mcv_entitic_volume_,fL
+28542-9,MPV,platelet_mean_volume_entitic_volume_in_blood,fL
+32623-1,MPV,platelet_mean_volume_entitic_volume_in_blood,fL
+26484-6,Mono,monocytes_volume_in_blood,THOU/mcL
+742-7,Mono,monocytes_volume_in_blood,THOU/mcL
+743-5,Mono,monocytes_volume_in_blood,THOU/mcL
+26499-4,Neu/PMN/polys,neutrophils_volume_in_blood,THOU/mcL
+751-8,Neu/PMN/polys,neutrophils_volume_in_blood,THOU/mcL
+753-4,Neu/PMN/polys,neutrophils_volume_in_blood,THOU/mcL
+2857-1,PS_Ag,prostate_specific_ag_mass_volume_in_serum_or_plasma,ng/mL
+26515-7,Plt,platelets_volume_in_blood,THOU/mcL
+2823-3,Pottassium,potassium_moles_volume_in_serum_or_plasma,mmol/L
+26453-1,RBC.val,erythrocytes_volume_in_blood,10*6/uL
+789-8,RBC.val,erythrocytes_volume_in_blood,10*6/uL
+30385-9,RDW.val,erythrocyte_distribution_width_ratio_,\%
+788-0,RDW.val,erythrocyte_distribution_width_ratio_,\%
+60474-4,RetC.val,reticulocytes_volume_in_blood_by_automated_count,THOU/mcL
+30341-2,Sed_rate,erythrocyte_sedimentation_rate,mm/hr
+2951-2,Sodium,sodium_moles_volume_in_serum_or_plasma,mmol/L
+2093-3,Tot_Chole,cholesterol_mass_volume_in_serum_or_plasma,mg/dL
+2571-8,Trigly,triglyceride_mass_volume_in_serum_or_plasma,mg/dL
+26464-8,WBC.val,leukocytes_volume_in_blood,THOU/mcL
+44429-9,album_Glo,albumin_globulin_mass_ratio_in_serum_or_plasma_by_electrophoresis,Ratio
+6768-6,alkal_pho,alkaline_phosphatase_enzymatic_activity_volume_in_serum_or_plasma,IU/L
+1742-6,alkan_pho,alanine_aminotransferase_enzymatic_activity_volume_in_serum_or_plasma,IU/L
+1798-8,amyla_Amy,amylase_enzymatic_activity_volume_in_serum_or_plasma,U/L
+33037-3,anion_gap,anion_gap_in_serum_or_plasma,mmol/L
+1920-8,asp_aminot,aspartate_aminotransferase_enzymatic_activity_volume_in_serum_or_plasma,IU/L
+1968-7,bilir_bou,bilirubin_direct_mass_volume_in_serum_or_plasma,mg/dL
+1988-5,c rea_pro,c_reactive_protein_mass_volume_in_serum_or_plasma,mg/L
+1989-3,calci_Cal,25_hydroxyvitamin_d3_mass_volume_in_serum_or_plasma,ng/mL
+2085-9,chole_HDL,cholesterol_in_hdl_mass_volume_in_serum_or_plasma,mg/dL
+2089-1,chole_LDL,cholesterol_in_ldl_mass_volume_in_serum_or_plasma,mg/dL
+11557-6,co2,carbon_dioxide_partial_pressure_in_blood,mm HG
+2132-9,cobal_Cob,cobalamin_vitamin_b12_mass_volume_in_serum_or_plasma,pg/mL
+2160-0,creat_Cre,creatinine_mass_volume_in_serum_or_plasma,mg/dL
+30240-6,d-dimer,deprecated_fibrin_d_dimer,ug FEU/mL
+7799-0,d-dimer,deprecated_fibrin_d_dimer,ug FEU/mL
+48643-1,glome_M.p,glomerular_filtration_rate_1_73_sq_m_predicted_among_blacks_volume_rate_area_in_serum_plasma_or_blood_by_creatinine_based_formula_mdrd_,mL/min/1.73 m2
+48642-3,glome_bla,glomerular_filtration_rate_1_73_sq_m_predicted_among_non_blacks_volume_rate_area_in_serum_plasma_or_blood_by_creatinine_based_formula_mdrd_,mL/min/1.73 m2
+2339-0,gluco_glu,glucose_mass_volume_in_blood,mg/dL
+2335-8,hemog_gas,hemoglobin_gastrointestinal_presence_in_stool,nan
+10839-9,hsTnI,troponin_i_cardiac_,ng/L
+49563-0,hsTnI,troponin_i_cardiac_,ng/L
+89578-9,hsTnI,troponin_i_cardiac_,ng/L
+89579-7,hsTnI,troponin_i_cardiac_,ng/L
+33903-6,keton_Ket,ketones_presence_in_urine,mg/dL
+14118-4,lacta_Lac,s_volume_in_serum_or_plasma,mmol/L
+2524-7,lacta_Lac,s_volume_in_serum_or_plasma,mmol/L
+2532-0,lacta_deh,lactate_dehydrogenase_enzymatic_activity_volume_in_serum_or_plasma,IU/L
+13046-8,lymph_leu,variant_lymphocytes_100_leukocytes_in_blood,\%
+26478-8,lymph_leu_non_variant,lymphocytes_100_leukocytes_in_blood,\%
+736-9,lymph_leu_non_variant,lymphocytes_100_leukocytes_in_blood,\%
+737-7,lymph_leu_non_variant,lymphocytes_100_leukocytes_in_blood,\%
+19123-9,magne_Mag,magnesium_mass_volume_in_serum_or_plasma,mg/dL
+11558-4,pH,ph_of_blood,nan
+2777-1,phosp_Pho,phosphate_mass_volume_in_serum_or_plasma,mg/dL
+14338-8,preal_Pre,prealbumin_mass_volume_in_serum_or_plasma,mg/dL
+27975-2,thyro_Thy,thyrotropin_mass_volume_in_serum_or_plasma,u[IU]/mL
+3024-7,thyro_fre,thyroxine_t4_free_mass_volume_in_serum_or_plasma,ng/dL
+3040-3,triac_lip,lipase_enzymatic_activity_volume_in_serum_or_plasma,U/L
+3086-6,urate_Ura,urate_mass_volume_in_urine,mg/dL
+13658-0,urobi_Uro,urobilinogen_presence_in_urine,mg/dL
+62487-4,urobi_Uro,urobilinogen_presence_in_urine,mg/dL
+8462-4,diastolic_bp,diastolic_blood_pressure,mmhg
+29463-7,body_weight,body_weight,kg
+8867-4,heart_rate,heart_rate,bpm
